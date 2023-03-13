@@ -24,13 +24,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x ] List anything else that you can get done to improve the app functionality!
 
+  - Ensurd text is contained within the screen and words are not being cut at the end of the row.
+  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/B2OUj29' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/B2OUj29
 
 GIF created with ScreenToGif  
 
